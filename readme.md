@@ -1,6 +1,6 @@
 # Test of rotation and position
 
-SwiftUI aff for testing rotation and GeometryReader.  
+SwiftUI app for testing rotation and GeometryReader.  
 The view is rerendered on rotation. Rotation is detected in
 ```
     func windowScene(_ windowScene: UIWindowScene, didUpdate ...
