@@ -7,8 +7,8 @@ The view is rerendered on rotation. Rotation is detected in
         device.isPortrait = windowScene.interfaceOrientation.isPortrait
     }
 ```
-and propagated to the view through an ObservabkeObject.
+and propagated to the view through an ObservableObject.
 
 The view uses GeometryReader to get the size of the inner rectangle in order to place a circle at each corner using offset
 
-![](/images/img1.png) ![](/images/img2.png)
+![](/images/img3.png)
